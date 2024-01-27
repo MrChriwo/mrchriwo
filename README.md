@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
  <a href="https://github.com/mrchriwo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=680&center=true&vCenter=true&multiline=true&random=false&width=520&height=80&lines=Christopher+Wolf;Data+Science+Student+%26+Full+Stack+Developer;AI+%7C+Cloud+Development+%7C+Process+Automation" alt="Typing SVG" /></a>
 
@@ -11,7 +11,7 @@
 <a href="mailto:christopher-wolf@outlook.de">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-</p>
+</div>
 
 
 <h2 style="color: #2990a6;"> Certifications </h2>
