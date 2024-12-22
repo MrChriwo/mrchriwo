@@ -1,6 +1,6 @@
 <div align="center">
 
- <a href="https://github.com/mrchriwo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=680&center=true&vCenter=true&multiline=true&random=false&width=520&height=80&lines=Christopher+Wolf;Data+Science+Student+%26+Full+Stack+Developer;AI+%7C+Cloud+Development+%7C+Process+Automation" alt="Typing SVG" /></a>
+ <a href="https://github.com/mrchriwo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=680&center=true&vCenter=true&multiline=true&random=false&width=520&height=80&lines=Christopher+Wolf;Data+Scientist+%26+Full+Stack+Developer;AI+%7C+Cloud+Development+%7C+Process+Automation" alt="Typing SVG" /></a>
 
 <br/>
 <br/>
