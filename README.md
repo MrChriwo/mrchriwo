@@ -20,7 +20,7 @@
 <table>
 
 <td align="center" width="33%">
-      <a href="https://learn.microsoft.com/en-us/users/christopherwolf-4381/credentials/certification/azure-ai-engineer?tab=credentials-tab" target="_blank">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChristopherWolf-4381/3F0D6CBE8A95492B?sharingId=CF76C2C2C519ECF4" target="_blank">
         <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="PSM I" width="150">
         <p><strong>AI-102 - Azure AI Engineer</strong></p>
       </a>
