@@ -25,6 +25,13 @@
         <p><strong>AI-102 - Azure AI Engineer</strong></p>
       </a>
     </td>
+
+ <td align="center" width="33%">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/ChristopherWolf-4381/45CBD4B49E5F2937?sharingId=CF76C2C2C519ECF4" target="_blank">
+        <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="PSM I" width="150">
+        <p><strong>DP-600 Fabric Analytics Engineer</strong></p>
+      </a>
+    </td>
     
   <tr>
     <td align="center" width="33%">
